@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+python-dateutil
+folium
+streamlit-folium
+wordcloud
+geopy
+scikit-learn
+nltk
